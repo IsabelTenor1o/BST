@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1700275822 source:c:\users\isabe\onedrive\Área de trabalho\arvore bst\arvorebinariabusca\bst.c
+	<stdio.h>
+	<stdlib.h>
+	"bst.h"
+
+1700275836 source:c:\users\isabe\onedrive\Área de trabalho\arvore bst\arvorebinariabusca\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bst.h"
+
+1700275822 c:\users\isabe\onedrive\Área de trabalho\arvore bst\arvorebinariabusca\bst.h
+
